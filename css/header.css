@@ -1,0 +1,83 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*css genérico para os hovers*/
+.hover-efeito {
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.hover-efeito:hover {
+    transform: translateY(5px); 
+    background-color: #f6d9cc;
+}
+
+header{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/imagens/original-1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+  color: #f6d9cc;
+}
+
+.conteiner {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px; 
+} 
+
+.titulo{
+    font-size: 24px;
+    margin-left: 10px;
+}
+
+nav {
+    margin: 10px;
+}
+
+.links {
+    color: #f6d9cc;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px; 
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.923);
+}
+
+nav a:hover {
+    background-color: transparent !important;
+}
+
+.segtitulo{
+    display: flex;
+    flex-flow: column;
+    gap: 10px;
+    align-items: center;
+    justify-content:center;
+    text-align:center;
+    height: 80vh;
+    margin: 10px; 
+    
+}
+
+h2{
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.923);
+    font-size: 2.4em; 
+}
+
+.saibamais{
+    margin-top: 40px;
+    padding: 12px 22px;
+    font-size: 1.1em;
+    background-color:#9C715D;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.508);
+}

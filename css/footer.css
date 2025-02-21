@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+footer{
+    background-color:#614d44 ;
+}
+.conteiner-ft {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding: 20px 0;
+    color:#CFB2A5;
+   
+}
+
+.ftlogo{
+    font-size: 1.1em;
+    font-weight: bolder;
+}
+
+.ftredes, .ftcontato {
+    display: flex;
+    flex-direction: column;
+    font-size: 1em;
+    padding: 10px;
+}
+
+.pr{
+    padding-top: 10px;
+}
+
+.ftredes i {
+    margin-right: 5px;
+}
+
+.ftcontato i {
+    margin-right: 5px;
+}
+

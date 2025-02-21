@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.conteiner1 {
+    background-color: #CFB2A5;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    gap: 30px;
+    padding: 20px;
+    height: 20vh;
+}
+ .prop {
+   padding-bottom: 10px;
+   font-size: 1.7em;
+ }
+
+ .conteiner1 > section  p {
+    font-size: 1.3em;
+ }
