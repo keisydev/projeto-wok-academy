@@ -17,7 +17,8 @@
 }
 
 header{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("imagens/img1-400.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+  url("https://keisydev.github.io/projeto-wok-academy/imagens/original-1.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
