@@ -16,6 +16,10 @@ Este repositório contém um site criado para testar e praticar o uso do **Flexb
     ```bash
    git clone https://github.com/keisydev/projeto-wok-academy.git
 
+## 🔗 Acesse o projeto online  
+O site está disponível em:  
+[🔗 Clique aqui para acessar](https://keisydev.github.io/projeto-wok-academy/)
+
 ## Aprendizados
 Como alinhar elementos horizontal e verticalmente
 Como criar layouts responsivos com Flexbox
