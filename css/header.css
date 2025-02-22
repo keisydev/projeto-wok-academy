@@ -17,7 +17,7 @@
 }
 
 header{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/imagens/original-1.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("imagens/original-1.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -44,12 +44,14 @@ nav {
 }
 
 .links {
+    display: inline-block;
     color: #f6d9cc;
     font-weight: bold;
     text-decoration: none;
     margin: 10px; 
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.923);
 }
+
 
 nav a:hover {
     background-color: transparent !important;

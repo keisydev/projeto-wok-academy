@@ -7,13 +7,12 @@
     justify-content: space-around;
     align-items: center;
     text-align: center;
-    gap: 30px;
     padding: 20px;
     height: 20vh;
 }
  .prop {
    padding-bottom: 10px;
-   font-size: 1.7em;
+   font-size: 1.3em;
  }
 
  .conteiner1 > section  p {
