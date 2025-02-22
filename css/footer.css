@@ -9,7 +9,7 @@ footer{
     align-items: center;
     text-align: center;
     padding: 10px 0;
-    color:#CFB2A5 !important;
+    color:#CFB2A5;
    
 }
 
@@ -27,6 +27,7 @@ footer{
 
 .pr{
     padding-top: 10px;
+    color:#CFB2A5 !important;
 }
 
 .ftredes i {
