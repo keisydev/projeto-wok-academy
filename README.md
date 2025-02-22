@@ -1,4 +1,4 @@
-# Projeto: Teste de Flexbox
+# Teste de Flexbox
 
 Este repositório contém um site criado para testar e praticar o uso do **Flexbox** no CSS. O objetivo é entender melhor como funcionam as propriedades de flexibilidade e responsividade ao distribuir elementos na página.
 
