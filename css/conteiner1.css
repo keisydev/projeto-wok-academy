@@ -8,11 +8,11 @@
     align-items: center;
     text-align: center;
     padding: 20px;
-    height: auto;
+    height: 30vh;
 }
  .prop {
-   padding-top: 10px;
    font-size: 1.5em;
+   line-height: 1.6;
  }
 
  .conteiner1 > section  p {
