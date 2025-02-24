@@ -21,8 +21,8 @@ O site está disponível em:
 [🔗 Clique aqui para acessar](https://keisydev.github.io/projeto-wok-academy/)
 
 ## Aprendizados
-Como alinhar elementos horizontal e verticalmente
-Como criar layouts responsivos com Flexbox
-Como evitar barras de rolagem indesejadas e manter a página fluida
+1. Como alinhar elementos horizontal e verticalmente
+1. Como criar layouts responsivos com Flexbox
+1. Como evitar barras de rolagem indesejadas e manter a página fluida
 
 Se tiver sugestões ou melhorias, fique à vontade para contribuir! 🚀
